@@ -105,12 +105,13 @@ body {
 
 
 .logo{
-    width: 150px;
+    width: 125px;
     height: 50px;
+    padding-left: 18px;
 }
 
 #navbar {
-    display: flex;
+    display: flex;s
     align-items: center;
     justify-content: center;
 }
@@ -526,6 +527,8 @@ footer .col {
 }
 footer .col .logo {
     margin-bottom: 15px;
+    padding-left: 0px;
+    width: 110px
 }
 
 footer h4 {
